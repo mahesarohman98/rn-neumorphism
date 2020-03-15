@@ -6,7 +6,7 @@ package needed :
 "react-native-shadow": "^1.2.2",
 "react-native-svg": "^12.0.3"
 
-![Alt text](screenshots/buttons.jpg?raw=true "button")
+![Alt text](https://github.com/mahesarohman98/rn-neumorphism/blob/master/screenshots/button.jpg?raw=true "button")
 
 
 ## How To Install 
